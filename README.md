@@ -1,2 +1,2 @@
 # leetcode
-my solutions for LeetCode in C++ or Python.
+collect and write some solutions for learning algorithm.
