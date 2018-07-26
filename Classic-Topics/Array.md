@@ -30,7 +30,6 @@
 
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
-
 ### K个排序链表的归并
 
 - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
